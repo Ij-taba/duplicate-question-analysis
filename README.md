@@ -13,26 +13,7 @@ This system helps platforms like Q&A websites, educational forums, and customer 
 ✅ Trained on 20,000 question pairs
 ✅ Achieved 92% accuracy
 
-🏗️ Project Architecture
-Duplicate-Question-Analysis
-│
-├── data
-│   └── dataset.csv
-│
-├── notebooks
-│   └── training.ipynb
-│
-├── models
-│   └── lstm_model.h5
-│
-├── src
-│   ├── preprocessing.py
-│   ├── train_model.py
-│   └── predict.py
-│
-├── app.py
-├── requirements.txt
-└── README.md
+
 ⚙️ Tech Stack
 Category	Tools
 Programming	Python
